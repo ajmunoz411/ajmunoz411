@@ -22,6 +22,7 @@ const andrew = {
 #### Find me here: 
 - <a href="https://www.linkedin.com/in/andrewjmunoz4/">LINKEDIN</a>
 - <a href="https://open.spotify.com/user/ajmunoz411">SPOTIFY</a>
+- <a href="https://twitter.com/and_rew_m">TWITTER</a>
 
 
 
