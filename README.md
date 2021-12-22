@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Andrew!</h1>
-
-
 #### A little about me: 
 ```
 const andrew = {
@@ -19,24 +16,3 @@ const andrew = {
   }
 }
 ```
-#### Find me here: 
-- <a href="https://www.linkedin.com/in/andrewjmunoz4/">LINKEDIN</a>
-- <a href="https://open.spotify.com/user/ajmunoz411">SPOTIFY</a>
-- <a href="https://twitter.com/and_rew_m">TWITTER</a>
-
-
-
-<!--
-**ajmunoz411/ajmunoz411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
